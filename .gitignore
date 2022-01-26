@@ -2,11 +2,13 @@
 *.pyc
 *~
 __pycache__
+.idea/
 
 # Env
 .env
 myvenv/
 venv/
+virenv/
 
 # Database
 db.sqlite3
